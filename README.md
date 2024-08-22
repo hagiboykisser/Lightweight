@@ -6,13 +6,13 @@ Lightweight is worlds first Fortnite Backend made in **FastAPI**
 
 ## Features Todo:
 
-[] Discord Bot
-[] XMPP
-[] Matchmaker With Queue
-[] Matchmaking
-[] Reporting Ingame
-[] AutoRotate ItemShop
-[] Account System (in json :eyes:)
+- [ ] Discord Bot
+- [ ] XMPP
+- [ ] Matchmaker With Queue
+- [ ] Matchmaking
+- [ ] Reporting Ingame
+- [ ] AutoRotate ItemShop
+- [ ] Account System (in json :eyes:)
 
 ## Currently Supported MCP Actions: **[NONE]**
 
