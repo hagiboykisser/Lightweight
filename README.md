@@ -16,3 +16,4 @@ Lightweight is worlds first Fortnite Backend made in **FastAPI**
 
 ## Currently Supported MCP Actions: **[NONE]**
 
+Expect it a little skunky sometimes lmaooo, its my first time doing shit in FastAPI:sob:
